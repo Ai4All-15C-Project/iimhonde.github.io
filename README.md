@@ -1,5 +1,3 @@
-git# 15C_Company-Success-Research-
-
 # Tech Stock Data - SARIMAX Forecasting
 
 ## Overview
@@ -98,3 +96,11 @@ This dataset contains 22 tech company stocks and 60+ exogenous variables for tim
 12. NASDAQ_Momentum - Short-term tech momentum
 
 ---
+
+## Authors
+
+This project was completed in collaboration with:
+
+Ivie Imhonde (iv665974@ucf.edu),
+Mohammad El-Tawil (moe17@scarletmail.rutgers.edu)
+Shuo Wu (sw6529@nyu.edu)
